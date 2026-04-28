@@ -1,0 +1,2 @@
+history -komennon yhteydessä voi käyttää ! ja rivinumeroa (esim. !156)
+se ajaa minkä tahansa komennon uudelleen
