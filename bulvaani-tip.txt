@@ -1,0 +1,1 @@
+Use ls -la to show hidden files and detailed permissions in Linux.
