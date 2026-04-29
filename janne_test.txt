@@ -1,0 +1,1 @@
+Handy command: clear, tällä saat "putsattua" terminalin tyhjäksi.
