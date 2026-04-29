@@ -1,0 +1,7 @@
+Use "!!" to repeate last command
+
+Amazing when you forget sudo
+
+Example: sudo !!
+
+
