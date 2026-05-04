@@ -1,0 +1,5 @@
+Hyödyllinen Linux komento: 
+
+tree
+
+Näyttää hakemiston puumaisena rakenteena. Asennus: sudo apt install tree
