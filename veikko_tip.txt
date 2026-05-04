@@ -1,0 +1,5 @@
+Tip:
+
+history | grep command
+
+Helps you find commands you typed earlier.
