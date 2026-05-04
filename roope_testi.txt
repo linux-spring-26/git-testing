@@ -1,0 +1,4 @@
+
+Komennolla "Sudo !!" voi suorittaa viimeisimmän komennon sudo oikeuksilla.
+
+Hyödyllinen jos unohtaa että jokin komento tarvitsi suorittamiseen sudon.
