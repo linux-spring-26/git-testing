@@ -1,1 +1,0 @@
-du -sh * näyttää hakemistojen ja tiedostojen koot helposti luettavassa muodossa.

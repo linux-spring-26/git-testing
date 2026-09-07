@@ -1,3 +1,0 @@
-DNS välimuistin tyhjennys komennolla:
-
-sudo resolvectl flush-caches

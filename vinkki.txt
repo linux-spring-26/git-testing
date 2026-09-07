@@ -1,5 +1,0 @@
-Joskus jokin ohjelma ei käynnisty koska portti on varattu.
-
-Käytä: sudo ss -tulpn | grep :80
-
-Näet välittömästi, mikä prosessi käyttää porttia 80.

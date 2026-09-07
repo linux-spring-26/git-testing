@@ -1,2 +1,0 @@
-Hyödyllinen Linux-vinkki:
-history | grep <hakusana>  # Etsi komentoa komentohistoriasta

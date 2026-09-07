@@ -1,2 +1,0 @@
-Nopea tapa palata edelliseen hakemistoon:
-cd -

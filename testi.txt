@@ -1,3 +1,0 @@
-Komento: ncdu
-Kuvaus: Näyttää levytilan käytön
-Asennus: sudo apt install ncdu
